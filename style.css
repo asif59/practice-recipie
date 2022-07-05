@@ -1,0 +1,127 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.tomato-color{
+    color: tomato;
+}
+h1{
+    font-size: 50px;
+    color: rgb(97, 93, 93);
+    line-height: 50%;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+}
+.half-image-width{
+    width: 50%;
+}
+.para-color{
+    color: grey;
+    padding-bottom: 10%;
+}
+.top-banner{
+    padding-top: 18%;
+}
+.flex-container{
+    display: flex;
+}
+#image{
+    padding-right: 5%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 50px;
+    font-weight: 700;
+}
+#top-banner{
+
+}
+.about-container{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.about{
+    padding-top: 5%;
+}
+.about p{
+    padding-bottom: 10%;
+    padding-right: 23%;
+    text-align: justify;
+}
+#image-width{
+    height: 100%;
+}
+.recipi-item{
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 2%;
+    width: 45%;
+    height: 550px;
+    border-radius: 40px;
+}
+.recipi-item img{
+    width: 90%;
+    height: 55%;
+    padding: 5% 5%;
+}
+#image-radius{
+    border-radius: 55px;
+}
+.padding{
+    padding-left: 5%;
+    padding-right: 1%;
+}
+.para-recipi{
+    padding-left: 5%;
+}
+.recipi-head{
+    text-align: center;
+}
+#para-width{
+    width: 40%;
+    padding-left: 30%;
+}
+.recipie-container{
+    padding-top: 5%;
+}
+.black-color{
+    color: black;
+}
+.shadow{
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 10px;
+    width: 86%;
+    margin-left: 7%;
+    height: 220px;
+    text-align: center;
+}
+.counter-container{
+    padding-top: 10%;
+}
+.half-follow-width{
+    width: 33.33%;
+    padding-top: 3%;
+}
+footer{
+    text-align: center;
+    height: 250px;
+    background-color: rgb(9, 9, 10);
+    margin-top: 5%;
+}
+h2{
+    color: gray;
+}
+#white-color{
+    color: white;
+    padding-top: 1%;
+}
+.orange-color{
+    color: orange;
+}
+.footer-top{
+    padding-top: 2%;
+}
